@@ -2,6 +2,10 @@
 
 It uses WebGL to render a 3D Cube , this project was made for fun in https://shrink.hackclub.com/ !
 
+## Preview
+
+![Mythical WebGL Cube](Screenshot%202026-10-14%20002219.png)
+
 ## how to use it
 
 Copy the uri.txt content and paste it inside your browser.
